@@ -9,12 +9,11 @@ import javax.swing.table.*;
 import java.awt.event.*;
 
 /**
- * testCase1 = "covering feathers AND swims t AND wings swimming AND feet webbed
- * AND flies f"; testCase2 = "covering hair AND eats cud AND legs long AND color
- * tawny AND spots dark"; testCase3 = "covering hair AND eats meat AND color
- * tawny AND teeth pointed AND claws t AND eyes forward"; testCase4 = "eats cud
- * AND milk t AND toes even AND antlers hornlike"; testCase5 = "covering hair
- * AND eats meat AND color tawny AND spots dark";
+ * testCase1 = "covering feathers AND swims t AND wings swimming AND feet webbed AND flies f"; 
+ * testCase2 = "covering hair AND eats cud AND legs long AND color tawny AND spots dark"; 
+ * testCase3 = "covering hair AND eats meat AND color tawny AND teeth pointed AND claws t AND eyes forward"; 
+ * testCase4 = "eats cud AND milk t AND toes even AND antlers hornlike"; 
+ * testCase5 = "covering hair AND eats meat AND color tawny AND spots dark";
  * 
  * @author CaptainXI
  *
@@ -25,10 +24,6 @@ public class MainUI
 
 	private JFrame frmAnimalExpertSystem;
 	private JTextField inputField;
-
-	/**
-	 * Launch the application.
-	 */
 
 	public static void main(String[] args) {		
 		EventQueue.invokeLater(new Runnable() {
