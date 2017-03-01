@@ -10,18 +10,16 @@ This project use some basic knowledge of production system which is a fraction o
 
 ## How to use 
 
-1. Clone this repository using Git Bash (or other equivalent softwares). 
-
+- Clone this repository using Git Bash (or other equivalent softwares). 
 `git clone https://git.oschina.net/candydog/ProductionSystem.git`
 
-2. Install Windows Builder (also called Swing) in Eclipse. 
-
-`Help --> Install from site...(MyEclipse) / Install software...(Eclipse)`  
+- Install Windows Builder (also called Swing) in Eclipse. 
+`Help --> Install from site...(MyEclipse) / Install software...(Eclipse)` 
 (More specific information please see official site of [Windows Builder](http://www.eclipse.org/windowbuilder/))
 
-3. Import project into Eclipse, then build and run. If you build with no error, then you will see the main interface.
+- Import project into Eclipse, then build and run. If you build with no error, then you will see the main interface.
 
-4. Have fun playing with this simple program and contribute!
+- Have fun playing with this simple program and contribute!
 
 ## Program screenshots
 
@@ -39,7 +37,6 @@ This project use some basic knowledge of production system which is a fraction o
 
 5. We can add some new rules.
 ![](./img/4.jpg)
-
 ![](./img/5.jpg)
 
 6. We can also delete unwanted rules.
