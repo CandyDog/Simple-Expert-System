@@ -3,7 +3,7 @@
 ## Introduction 
 This project use some basic knowledge of production system which is a fraction of AI. 
 
-## Prerequisite
+## Prerequisites
 
 - Programming language: Java SE 1.7 
 - Developing tools: MyEclipse 2014 (Eclipse Kepler) or maybe higher
@@ -26,7 +26,7 @@ This project use some basic knowledge of production system which is a fraction o
 1. Initial user interface
 ![](./img/0.jpg)
 
-2. If user inputs nothing, we output nothing.
+2. If user inputs nothing, we output ERROR.
 ![](./img/1.jpg)
 
 3. If user inputs valid conditions, we output correspondent conclusion.
