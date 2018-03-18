@@ -1,7 +1,7 @@
-# ProductionSystem
+# Simple Expert system
 
 ## Introduction 
-This project use some basic knowledge of production system which is a fraction of AI. 
+This simple expert system uses basic knowledge of production system to determine which animal it should be after user types his/her conditions.
 
 ## Prerequisites
 
@@ -17,9 +17,9 @@ This project use some basic knowledge of production system which is a fraction o
 `Help --> Install from site...(MyEclipse) / Install software...(Eclipse)` 
 (More specific information please see official site of [Windows Builder](http://www.eclipse.org/windowbuilder/))
 
-- Import project into Eclipse, then build and run. If you build with no error, then you will see the main interface.
+- Import project into Eclipse, then build and run. If you build without any errors, you will see the main interface as shown in the picture below.
 
-- Have fun playing with this simple program and contribute!
+- Have fun playing with this simple expert system and contribute!
 
 ## Program screenshots
 
@@ -39,6 +39,6 @@ This project use some basic knowledge of production system which is a fraction o
 ![](./img/4.jpg)
 ![](./img/5.jpg)
 
-6. We can also delete unwanted rules.
+6. We can also delete unwanted rules (in the picture the first rule was removed).
 ![](./img/6.jpg)
 

@@ -1,9 +1,26 @@
+# Compiled class file
 *.class
 
-# Package Files #
+# Log file
+*.log
+
+# Package Files
 *.jar
 *.war
 *.ear
+*.zip
+*.tar.gz
+*.rar
 
-# Binary Folder
-/bin
+# Eclipse project files
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.metadata
+.settings/
+.loadpath
+.recommenders
